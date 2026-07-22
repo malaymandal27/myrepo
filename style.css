@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    box-sizing: border-box;
+    background-color: rgb(201 248 254);
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.intro {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    padding-left: 10%
+}
+
+table{
+    margin-left: 10%;
+    border: 3px solid black;
+}
+
+th td {
+    padding: 10px;
+    
+}
